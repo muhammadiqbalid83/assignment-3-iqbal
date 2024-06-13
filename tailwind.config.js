@@ -4,14 +4,13 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        poppins: ["Poppins", "sans-serif"],
+        poppins: ["Inter Tight", "sans-serif"],
       },
       colors: {
-        "title-color": "#333333",
-        "title-color-dark": "#000000",
-        "text-color": "#757575",
-        "body-color": "#fafafa",
-        "container-color": "#fff",
+        biru: "#1465ff",
+        hitam: "#00030c",
+        abu: "#35353d",
+        kuning: "#e69601",
       },
     },
   },
